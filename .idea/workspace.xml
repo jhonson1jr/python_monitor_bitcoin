@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b269e78-71be-456c-81cc-0a89f7c4efc0" name="Changes" comment="Início do projeto de monitoramento de preço do Bitcoin via API">
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="9b269e78-71be-456c-81cc-0a89f7c4efc0" name="Changes" comment="Inclusao de imagem de logo do Bitcoin">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -39,13 +37,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Jhon/PycharmProjects/agenda_telefonica",
+    "settings.editor.selected.configurable": "preferences.general"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python_bitcoin_preco" />
@@ -94,11 +94,29 @@
       <option name="project" value="LOCAL" />
       <updated>1730404931606</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Criado a tela e requisição de API para monitoramento do preço">
+      <option name="closed" value="true" />
+      <created>1730413973636</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730413973636</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Inclusao de imagem de logo do Bitcoin">
+      <option name="closed" value="true" />
+      <created>1730414008623</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730414008623</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Início do projeto de monitoramento de preço do Bitcoin via API" />
-    <option name="LAST_COMMIT_MESSAGE" value="Início do projeto de monitoramento de preço do Bitcoin via API" />
+    <MESSAGE value="Criado a tela e requisição de API para monitoramento do preço" />
+    <MESSAGE value="Inclusao de imagem de logo do Bitcoin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inclusao de imagem de logo do Bitcoin" />
   </component>
 </project>
